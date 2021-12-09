@@ -1,16 +1,13 @@
 package com.mycompany.app;
 
 /**
- * Hello world!
+ * Hello DEV-OPS!
  *
  */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-        System.out.println( "Welcome to Jenkins" );
-        System.out.println( "Finally its Working" );
-        
+        System.out.println( "Hello DEV-OPS" );
     }
 }
